@@ -1,0 +1,34 @@
+# IDE
+.vscode
+
+# Data directories (not published)
+data/
+out_testing/
+out_training/
+out_validation/
+training/
+validation/
+testing/
+trained_completion/
+
+# Models
+external_models/
+pretrained_models/
+trained_monocular/
+trained_model/
+
+# Outputs
+plots/
+*.out
+
+# Python
+*__pycache__*
+setup/*/__pycache__
+depth_completion/src/__pycache__
+utils/src/__pycache__
+
+# Jupyter
+tools/_jupyter/.ipynb_checkpoints
+
+# Bash scripts
+depth_completion/bash/

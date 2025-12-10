@@ -1,0 +1,9 @@
+.vscode
+data/
+src/__pycache__/
+src_legacy/__pycache__/
+plots
+testing
+trained_models
+training
+validation
